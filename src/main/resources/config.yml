@@ -1,0 +1,5 @@
+# Below, please specify the amount of money a player should receive per level and orb.
+
+amounts:
+  level: 100
+  orb: 10

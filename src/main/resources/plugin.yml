@@ -1,0 +1,16 @@
+name: XPSell
+main: me.staticjava.XPSell
+version: 1.0
+description: Allows users to redeem their XP for Money!
+depends: [Vault]
+author: StaticJava
+
+commands:
+  xpsell:
+    description: XPSell's Main Command - Redeem your levels!
+
+permissions:
+  xpsell.redeem:
+    description: Allows the user to redeem XP for money.
+  xpsell.reload:
+    description: Allows the user to reload the configuration file.
